@@ -1,0 +1,69 @@
+=== SECTION: Institute Overview ===
+CodersDaily is a training and placement institute based in Indore, Madhya Pradesh, offering industry-focused courses in Full Stack Development, Data Science, Python, ReactJS, and more. The institute provides placement-focused workshops and career guidance.
+
+=== SECTION: CEO & Leadership ===
+CEO: Mradul Mishra
+LinkedIn: https://www.linkedin.com/in/mradul-m-808776a9/
+Mradul Mishra is the CEO and Co-Founder, with strong expertise in ERP, Frappe, and Data Science training. Under his leadership, CodersDaily has helped 1000+ students enter the tech industry.
+
+=== SECTION: Success Stories ===
+- Shivani Wagh: Software Developer at Thoughtwin
+- Shraddha Dubey: Data Analyst at CoreCard India
+- Jitesh Sharma: QA Analyst at TCS
+- Shubham Ghosh: Full Stack Developer at Softude
+- Yogita Sharma: Python Developer at Bestpeers
+- Rahul Sharma: Mobile App Developer at MRF
+
+=== SECTION: Courses Offered ===
+1. Data Science Course:
+- Duration: 4 months
+- Topics: Python, Pandas, Numpy, Machine Learning, Deep Learning, Tableau
+- Features: Live projects, 1:1 mentorship, placement support
+
+2. Data Analytics Course:
+- Duration: 3 months
+- Topics: Excel, SQL, Power BI, Tableau, Statistics
+- Features: Doubt-solving, LMS access, certification
+
+3. Full Stack Development (MERN Stack):
+- Topics: MongoDB, Express.js, ReactJS, Node.js
+- Projects: Web applications, e-commerce platforms
+
+4. Python + Django:
+- Topics: Python basics, Django apps, API integration
+- Projects: CRUD apps, deployment skills
+
+5. ReactJS Development:
+- Focus: UI/UX, state management, routing
+
+6. Mobile App Development:
+- Tools: Flutter, React Native
+- Focus: Cross-platform apps
+
+7. Blockchain Development:
+- Topics: Smart contracts, decentralized apps, Solidity basics
+
+=== SECTION: Workshops ===
+- Data Science Masterclass
+- AI Engineering Roadmap
+- Career Switch to IT for Non-CS Students
+- TCS NQT Mock Test Series
+
+=== SECTION: YouTube Channel ===
+URL: https://www.youtube.com/@CodersDaily/videos
+Popular videos:
+- Data Science Roadmap 2024
+- Resume Review for Python Developers
+- Free Final Year Projects
+- Transitioning from Non-IT to IT
+
+=== SECTION: Contact Details ===
+Phone: +91-9752285534
+Email: info@codersdaily.in
+Address: 26-B, 2nd Floor, in front of INOX, Sapna Sangeeta Rd, Indore, MP - 452009
+Website: https://codersdaily.in
+Instagram: https://www.instagram.com/codersdaily/
+LinkedIn: https://www.linkedin.com/company/codersdaily
+YouTube: https://www.youtube.com/@CodersDaily/videos
+
+=== END OF DOCUMENT ===
