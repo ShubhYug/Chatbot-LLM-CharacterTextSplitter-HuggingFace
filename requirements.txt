@@ -1,0 +1,30 @@
+# LangChain core and community integrations
+langchain
+langchain-core
+langchain-community
+
+# Vector store
+chromadb
+
+
+# Embeddings
+sentence-transformers
+transformers
+huggingface-hub
+
+
+# UI
+streamlit
+
+
+# Document loading & text processing
+unstructured
+tiktoken
+
+
+# For .env or API key management (optional)
+python-dotenv
+
+
+# Backend utilities
+faiss-cpu  # Optional: for other vector stores
